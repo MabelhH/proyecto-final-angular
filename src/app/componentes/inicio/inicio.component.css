@@ -1,0 +1,31 @@
+h2{
+   color:blueviolet;
+    margin-left: 55px;
+    font-size: 45px;
+}
+h3{
+    color: blueviolet;
+}
+.productos{
+width: 90%;
+margin: 20px;
+margin-left: 35px;
+
+
+}
+.cuadro1{
+    margin: 20px;
+    border-radius: 6px;
+}
+.cuadro2{
+    margin: 20px;
+    border-radius: 6px;
+}
+.cuadro3{
+    margin: 20px;
+    border-radius: 6px;
+}
+.cuadro4{
+    margin: 20px;
+    border-radius: 6px;
+}
