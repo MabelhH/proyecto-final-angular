@@ -4,12 +4,14 @@ import { InicioComponent } from './componentes/inicio/inicio.component';
 import { LoginComponent } from './componentes/login/login.component';
 import { ProductosComponent } from './componentes/productos/productos.component';
 import { RegistroComponent } from './componentes/registro/registro.component';
+import { MostrarComponent } from './componetes/mostrar/mostrar.component';
 
 const routes: Routes = [
   {path:'login',component:LoginComponent},
   {path:'registro',component:RegistroComponent},
   {path:'inicio',component:InicioComponent},
   {path:'productos',component:ProductosComponent},
+  {path:'mostrar/:id',component:MostrarComponent},
   {path:'',redirectTo:'',pathMatch:'full'}
 
 ];

@@ -6,8 +6,12 @@ h2{
 h3{
     color: blueviolet;
 }
+p{
+    color: blueviolet;
+    font-size: 25px;
+}
+
 .productos{
-width: 90%;
 margin: 20px;
 margin-left: 35px;
 
@@ -21,11 +25,7 @@ margin-left: 35px;
     margin: 20px;
     border-radius: 6px;
 }
-.cuadro3{
-    margin: 20px;
-    border-radius: 6px;
-}
-.cuadro4{
-    margin: 20px;
-    border-radius: 6px;
+
+.tienda{
+    color: aliceblue;
 }
